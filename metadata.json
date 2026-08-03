@@ -1,0 +1,6 @@
+{
+  "name": "Blinkit AI Review Discovery Workflow",
+  "description": "AI-powered feedback discovery workflow for Product Managers to analyze customer reviews, detect themes, pain points, user segments, and generate product opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
